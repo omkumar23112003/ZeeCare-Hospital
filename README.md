@@ -70,6 +70,38 @@ npm run dev
 # Frontend
 cd ../Frontend
 npm run dev
+Frontend: http://localhost:5173
+Backend API: http://localhost:5000
+
+🌐 Live Demo
+👉 ZeeCare on Vercel
+
+📦 Folder Highlights
+controller/: Logic for each route
+
+models/: Mongoose models (if MongoDB used)
+
+middlewares/: Auth middleware and validations
+
+router/: Express route files
+
+utils/: Helper functions
+
+📄 License
+This project is licensed under the MIT License.
+
+yaml
+Copy
+Edit
+
+---
+
+Let me know if:
+- You used **MySQL instead of MongoDB**
+- You want to include **screenshots**
+- You want a **longer resume version** for portfolios or interviews
+
+I can help you customize this further.
 
 
 
