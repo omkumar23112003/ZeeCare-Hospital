@@ -3,6 +3,11 @@
 
 A full-stack web application for managing hospital administration tasks like patient records, appointments, and secure admin access.
 
+## 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://zee-care-hospital.vercel.app/)
+
+
 ## 🚀 Tech Stack
 
 **Frontend**:  
